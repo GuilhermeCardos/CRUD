@@ -1,0 +1,10 @@
+{
+    "name":"cadastro/usuario",
+    "autoload": 
+    {
+        "psr-4": 
+        {
+            "App\\":"app/"
+        }
+    }
+}
